@@ -665,6 +665,15 @@ const Showcases = [
     source: null,
     tags: ["nft"],
   },
+  {
+    title: "The WowOms",
+    description:
+      "Worms, but much wow! Limited to 12 mints per drop.",
+    preview: require("./showcase/wowoms.png"),
+    website: "https://pixano.cf/WowOms",
+    source: null,
+    tags: ["nft"],
+  }
 ];
 
 export const TagList = Object.keys(Tags);
